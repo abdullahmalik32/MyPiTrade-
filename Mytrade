@@ -1,0 +1,15 @@
+# MyPiTrade
+
+MyPiTrade is a mobile-friendly frontend application for testing Pi Network integrations in **sandbox mode**.
+
+## Features
+- Sandbox mode enabled for safe testing
+- Mobile-friendly interface
+- Connects to your Pi account without real transactions
+- Simple and clean UI
+
+## Setup Instructions
+
+1. **Clone this repository**  
+```bash
+git clone https://github.com/<username>/MyPiTrade.git
