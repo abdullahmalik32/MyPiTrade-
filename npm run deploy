@@ -1,0 +1,5 @@
+"homepage": "https://malik32.github.io/MyPiTrade-",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
