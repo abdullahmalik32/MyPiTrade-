@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MyPi Trade</title>
+</head>
+<body style="font-family: Arial, sans-serif; text-align: center; margin-top: 50px;">
+  <h1>🚀 Welcome to MyPi Trade</h1>
+  <p>This is a demo page for testing Pi Network app integration.</p>
+  <p>App Name: <b>MyPi Trade</b></p>
+  <p>Status: <span style="color: green;">Running Successfully ✅</span></p>
+</body>
+</html>
